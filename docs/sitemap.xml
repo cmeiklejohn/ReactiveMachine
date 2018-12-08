@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/motivation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/orchestrations/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/activities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/states/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/affinities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/example-hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/example-echo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/docs/example-counter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://microsoft.github.io/ReactiveMachine/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
