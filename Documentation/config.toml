@@ -1,4 +1,4 @@
-baseURL = "https://microsoft.github.io/ReactiveMachine"
+baseURL = "http://reactive-machine.org"
 languageCode = "en-us"
 title = "Reactive Machine"
 pygmentsUseClasses = true
