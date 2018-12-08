@@ -14,8 +14,6 @@ Orchestrations can be composed of:
 * **Activities**: application-specific operations that contain side-effects;
 * **Orchestrations**: other orchestrations.
 
-...
-
 ## Example Activities: Read / Write Blob
 
 To demonstrate orchestrations, we begin by defining two activities for reading and writing from external storage.
@@ -63,5 +61,3 @@ public class CopyBlob : IOrchestration<UnitType>
 ```
 
 This orchestration is **guaranteed** to execute: programmers do not need to worry about the resilience of the orchestration, only the interaction with the external services, defined by activities.
-
-...
