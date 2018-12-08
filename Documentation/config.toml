@@ -1,0 +1,19 @@
+baseURL = "https://microsoft.github.io/ReactiveMachine"
+languageCode = "en-us"
+title = "Reactive Machine"
+pygmentsUseClasses = true
+pygmentsCodefences = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
+publishDir = "../docs"
+
+[params]
+description = "Microservices without faults or servers."
+
+[params.home]
+imgUrl = "/img/tactic.PNG"
+
+[[params.navbar.nav]]
+text = "Docs"
+link = "/docs"
+
